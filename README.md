@@ -5,7 +5,7 @@
 申请个worker ai，具体谷歌，点编辑代码，把index.js的代码复制进去，根据需求自行修改下，点部署。根据worker的网址就可以访问了。
 # 调用方式参考
 ```bash
-curl -X POST   -H 'Authorization: tielongniubi'   -d 'question=30岁就失业了,现在一点钱都没有，怎么办啊' https://freegpt.hero141lc7425.workers.dev
+curl -X POST   -H 'Authorization: tielongniubi'   -d 'question=30岁就失业了,现在一点钱都没有，怎么办啊' https://worker.he425.workers.dev
 ```
 # 铁龙网络科技工作室
 公众号：铁龙网络科技
